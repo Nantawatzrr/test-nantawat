@@ -1,0 +1,17 @@
+table, th, td{
+    border: 1px solid black;
+  }
+  
+  td{
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .tr_head{
+    background-color: orange;
+  }
+
+  table{
+    border-collapse: collapse;
+    width:100%
+  }
